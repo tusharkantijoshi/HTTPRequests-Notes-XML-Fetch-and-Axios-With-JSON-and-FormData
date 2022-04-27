@@ -1,5 +1,6 @@
 /* 
-it uses promises out of the box. So this get method returns a promise and therefore using await on it, async await of course works.
+! Axios
+* Axios makes it easy to send asynchronous HTTP requests to REST endpoints and perform CRUD operations. It can be used in plain JavaScript or with a library such as Vue or React.
 */
 
 //! GET Request
